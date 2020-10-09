@@ -1,0 +1,3 @@
+[submodule "extern/test1"]
+	path = extern/test1
+	url = https://github.com/nemolc/test1.git
